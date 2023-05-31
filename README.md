@@ -56,7 +56,7 @@ You can try out the password generator [here](https://passwordgeneratorinreact.n
 
 This project is deployed using Netlify. The live version of the password generator can be accessed [here](https://passwordgeneratorinreact.netlify.app/).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/NETLIFY_STATUS_HERE)](https://app.netlify.com/sites/NETLIFY_SITE_NAME_HERE)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/NETLIFY_STATUS_HERE)](https://app.netlify.com/sites/https://passwordgeneratorinreact.netlify.app/)
 
 ## Contributing
 
