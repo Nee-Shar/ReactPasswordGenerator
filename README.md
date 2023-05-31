@@ -1,5 +1,5 @@
 
-```
+
 # Password Generator in React
 
 This is a simple password generator built with React, Bootstrap, and Vite. It allows you to generate random passwords based on your specified criteria.
