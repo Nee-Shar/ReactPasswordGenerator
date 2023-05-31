@@ -2,8 +2,6 @@
 ```
 # Password Generator in React
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/NETLIFY_STATUS_HERE)](https://app.netlify.com/sites/NETLIFY_SITE_NAME_HERE)
-
 This is a simple password generator built with React, Bootstrap, and Vite. It allows you to generate random passwords based on your specified criteria.
 
 You can try out the password generator [here](https://passwordgeneratorinreact.netlify.app/).
